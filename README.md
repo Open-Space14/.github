@@ -1,2 +1,2 @@
 # The kitten zone
-There is no God here, there are only kittens.
+<p align="center"> <img width="704" height="352" src="https://github.com/Open-Space14/.github/blob/main/god.jpeg?raw=true" /></p>
